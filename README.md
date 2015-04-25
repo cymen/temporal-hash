@@ -1,4 +1,4 @@
-# Temporal Hash
+# Temporal Hash [![Build Status](https://travis-ci.org/cymen/temporal-hash.svg?branch=master)](https://travis-ci.org/cymen/temporal-hash)
 
 ## `update(hash, timestamp)`
 
