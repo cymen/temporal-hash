@@ -1,4 +1,4 @@
-# Temporal Hash [![Build Status](https://travis-ci.org/cymen/temporal-hash.svg?branch=master)](https://travis-ci.org/cymen/temporal-hash)
+# Temporal Hash [![Build Status](https://travis-ci.org/cymen/temporal-hash.svg?branch=master)](https://travis-ci.org/cymen/temporal-hash) [![npm version](https://badge.fury.io/js/temporal-hash.svg)](http://badge.fury.io/js/temporal-hash)
 
 ## `update(hash, timestamp)`
 
