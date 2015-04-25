@@ -1,0 +1,29 @@
+{
+  "name": "temporal-hash",
+  "version": "0.0.1",
+  "description": "Hash with key insertion time preserved",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cymen/temporal-hash"
+  },
+  "keywords": [
+    "temporal",
+    "hash"
+  ],
+  "author": "Cymen Vig <cymenvig@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cymen/temporal-hash/issues"
+  },
+  "homepage": "https://github.com/cymen/temporal-hash",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "lodash": "^3.7.0"
+  }
+}
